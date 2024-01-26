@@ -1,0 +1,36 @@
+/* NAV_Buttons Start   */
+.button1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+/* Nav Buttons ENDS  */
+
+
+/* Head email btn start  */
+div.emailBox {
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.getStarted {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+button.getstart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+/* Head email btn ends  */
